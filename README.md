@@ -1,4 +1,3 @@
-# DangerousRoadClassifier
 # Road Accident Data Analysis
 This project is focused on analyzing road accident data to uncover insights about accident hotspots, unique accident spots for each road or highway, and other patterns. The goal is to process, visualize, and model the data to support decision-making for traffic management and safety improvements.
 
